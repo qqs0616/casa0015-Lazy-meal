@@ -11,7 +11,8 @@ Details page: view recipe details. The star button on the top right adds the rec
 ![Image text]
 
 Ingredient list page: view the ingredients that have been added. Users can delete individual ingredients by swiping right, or delete all ingredients by using the bin button at the top right.
-<img src="Image/Ingredient.png" width="30%">
+
+<img src="Image/Ingredient.png" width="20%">
 
 Plan page: view the recipes that have been added. Users can click on a recipe to indicate that it is complete or delete all recipes via the bin button at the top right.
 ![Image text]
