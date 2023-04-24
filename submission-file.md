@@ -12,8 +12,7 @@ date: "10 Dec 2021"
 ## Link to GitHub Repository
 
 Flutter Application Name - LAZY MEAL
-GitHub Repository - https://github.com/qqs0616/casa0015-Lazy-meal
-The revision history can be viewed in this repository: (repository not forked)
+GitHub Repository - 
 
 ## Introduction to Application
 
