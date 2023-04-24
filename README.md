@@ -15,7 +15,8 @@ Ingredient list page: view the ingredients that have been added. Users can delet
 <img src="Image/Ingredient.png" width="20%">
 
 Plan page: view the recipes that have been added. Users can click on a recipe to indicate that it is complete or delete all recipes via the bin button at the top right.
-![Image text]
+
+<img src="Image/Image/Plan.png" width="20%">
 
 
 
