@@ -26,6 +26,7 @@ Plan page: view the recipes that have been added. Users can click on a recipe to
 - https://github.com/mohak1283/Instagram-Clone
 
 ## API
+TheMealDB: an open, crowdsourced database of recipes from around the world.
 https://www.themealdb.com/api.php
 
 ## How To Install The App
