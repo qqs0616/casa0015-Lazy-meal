@@ -1,7 +1,6 @@
 # Lazy meal - Search recipes to build a meal plan
 
-This is the Final assessment template for CASA0014 - Please use this template and edit the relevant sections to personalise.
-This section has a short introduction to what the application is
+The application allows users to search for desired recipes based on the cuisine, ingredients and area, as well as sorting recipes by popularity and newest. The selected recipes can be added to a meal plan or the required ingredients can be added directly to the ingredients list. Selected recipes can be viewed via the navigation bar and the user can manage what is added on the ingredients page and the plan page.
 
 ## Features 
 
