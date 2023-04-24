@@ -26,28 +26,7 @@ Plan page: view the recipes that have been added. Users can click on a recipe to
 - https://github.com/mohak1283/Instagram-Clone
 
 ## API
-Search meal by name
-www.themealdb.com/api/json/v1/1/search.php?s=Arrabiata
-List all meals by first letter
-www.themealdb.com/api/json/v1/1/search.php?f=a
-Lookup full meal details by id
-www.themealdb.com/api/json/v1/1/lookup.php?i=52772
-Lookup a single random meal
-www.themealdb.com/api/json/v1/1/random.php
-List all meal categories
-www.themealdb.com/api/json/v1/1/categories.php
-Latest Meals (only available to $2+ Paypal supporters)
-www.themealdb.com/api/json/v1/1/latest.php
-List all Categories, Area, Ingredients
-www.themealdb.com/api/json/v1/1/list.php?c=list
-www.themealdb.com/api/json/v1/1/list.php?a=list
-www.themealdb.com/api/json/v1/1/list.php?i=list
-Filter by main ingredient
-www.themealdb.com/api/json/v1/1/filter.php?i=chicken_breast
-Filter by Category
-www.themealdb.com/api/json/v1/1/filter.php?c=Seafood
-Filter by Area
-www.themealdb.com/api/json/v1/1/filter.php?a=Canadian
+https://www.themealdb.com/api.php
 
 ## How To Install The App
 For developers who want to refine or extend the application, download the App folders and open them in Visual Studio Code.
