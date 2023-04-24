@@ -5,10 +5,12 @@ The application allows users to search for desired recipes based on the cuisine,
 ## Features 
 Search page: Users can enter content in the search box above and select criteria to search and sort recipes.
 The crying face emoji at the top means that the meal plan has not been added today and will change to a smiley face when added.
-![Image text]
+
+<img src="Image/Ingredient.png" width="20%">
 
 Details page: view recipe details. The star button on the top right adds the recipe ingredients to the ingredients list and the eye button adds the recipe to the plan.
-![Image text]
+
+<img src="Image/Ingredient.png" width="20%">
 
 Ingredient list page: view the ingredients that have been added. Users can delete individual ingredients by swiping right, or delete all ingredients by using the bin button at the top right.
 
@@ -16,7 +18,7 @@ Ingredient list page: view the ingredients that have been added. Users can delet
 
 Plan page: view the recipes that have been added. Users can click on a recipe to indicate that it is complete or delete all recipes via the bin button at the top right.
 
-<img src="Image/Image/Plan.png" width="20%">
+<img src="Image/Plan.png" width="20%">
 
 
 
