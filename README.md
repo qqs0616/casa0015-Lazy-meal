@@ -1,7 +1,7 @@
 # Lazy meal - Search recipes to build a meal plan
 
 The application allows users to search for desired recipes based on the cuisine, ingredients and area, as well as sorting recipes by popularity and newest. The selected recipes can be added to a meal plan or the required ingredients can be added directly to the ingredients list. Selected recipes can be viewed by switching pages via the navigation bar and the user can manage what is added on the ingredients page and the plan page.
-The revision history can be viewed in this repository ：
+The revision history can be viewed in this repository ：https://github.com/qqs0616/Lazy-meal
 
 ## Features 
 Search page: Users can enter content in the search box above and select criteria to search and sort recipes.
