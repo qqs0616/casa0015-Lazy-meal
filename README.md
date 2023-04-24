@@ -28,7 +28,7 @@ Plan page: view the recipes that have been added. Users can click on a recipe to
 ## Data Feed
 
 ## How To Install The App
-For developers who want to refine or extend the application, download the files and open them in Visual Studio Code.
+For developers who want to refine or extend the application, download the App folders and open them in Visual Studio Code.
 Please run the application after installing Flutter version 3.7.7 and Xcode.
 
 ## License
