@@ -30,7 +30,7 @@ Users can click on a recipe to indicate that it is complete or delete all recipe
 TheMealDB: an open, crowdsourced database of recipes from around the world.
 https://www.themealdb.com/api.php
 
-## Libraries
+## Libraries Used
 dio 4.0.6: https://pub.dev/packages/dio
 
 flutter_easyloading 3.0.5: https://pub.dev/packages/flutter_easyloading
