@@ -30,6 +30,13 @@ Users can click on a recipe to indicate that it is complete or delete all recipe
 TheMealDB: an open, crowdsourced database of recipes from around the world.
 https://www.themealdb.com/api.php
 
+## Libraries
+1. dio: network requests
+2. flutter_easyloading: refresh
+3. extended_image: cache images in memory, reduce network requests, improve image loading speed
+4. shared_preferences: request data for collections, convert to List, add or remove collections
+5. flutter_slidable: slide to delete
+
 ## How To Install The App
 For developers who want to refine or extend the application, download the App folders and open them in Visual Studio Code.
 Please run the application after installing Flutter version 3.7.7 and Xcode.
