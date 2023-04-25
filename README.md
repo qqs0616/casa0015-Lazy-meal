@@ -32,9 +32,13 @@ https://www.themealdb.com/api.php
 
 ## Libraries
 dio 4.0.6: https://pub.dev/packages/dio
+
 flutter_easyloading 3.0.5: https://pub.dev/packages/flutter_easyloading
+
 extended_image 6.3.4: https://pub.dev/packages/extended_image
+
 shared_preferences 2.0.15: https://pub.dev/packages/shared_preferences
+
 flutter_slidable 2.0.0: https://pub.dev/packages/flutter_slidable
 
 ## How To Install The App
